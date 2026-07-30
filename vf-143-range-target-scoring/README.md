@@ -17,7 +17,6 @@ A plug-and-play bombing range scoring script for DCS World that reports how clos
 3. Set each target’s Mission Editor object name to match the names configured in the script.
 4. Open **Triggers**.
 5. Create a new trigger:
-
    * **Type:** `MISSION START`
    * **Action:** `DO SCRIPT FILE`
 6. Select `VF-143_Pukin_Dogs_Range_Target_Scoring.lua`.
