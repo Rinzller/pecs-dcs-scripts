@@ -1,15 +1,14 @@
-------------------------------------------------------------
--- VF-143 PUKIN DOGS RANGE TARGET SCORING SCRIPT
---
--- Version:      1.0.0
--- Last Updated: 2026-07-29
--- Author: Rinzller
---
--- Description:
---   Tracks bomb impacts and reports the miss distance from
---   the nearest configured range target.
---
-------------------------------------------------------------
+--[[
+TITLE: VF-143 PUKIN DOGS RANGE TARGET SCORING SCRIPT
+
+Version:      1.0.0
+Last Updated: July 29, 2026
+Author:       Rinzller
+
+DESCRIPTION:
+    Tracks bomb impacts and reports the miss distance from
+    the nearest configured range target.
+]]--
 
 ------------------------------------------------------------
 -- Configuration
