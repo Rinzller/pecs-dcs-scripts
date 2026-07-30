@@ -1,7 +1,5 @@
 --[[
-=======================================================================
- VF-143 PUKIN DOGS AIR THREAT GENERATOR
-=======================================================================
+ TITLE: VF-143 PUKIN DOGS AIR THREAT GENERATOR
 
 Version: 1.0.0
 Last Updated: July 29, 2026
@@ -11,28 +9,6 @@ DESCRIPTION:
     A plug-and-play DCS World training script that dynamically generates
     hostile aircraft packages through the F10 radio menu for VF-143
     Pukin Dogs BVR and intercept training.
-
-FEATURES:
-    - Easy / Medium / Hard / Nightmare difficulty levels
-    - Random fighter and bomber packages
-    - Veteran AI skill for all spawned aircraft
-    - Hot-aspect spawns
-    - 1 NM tactical line-abreast formations
-    - AWACS-style contact reports
-    - Cleanup command
-    - No templates, MIST, MOOSE, or trigger zones required
-
-F10 MENU:
-    VF-143 Air Threat Generator
-        Easy      - 1 hostile fighter
-        Medium    - 2 hostile fighters
-        Hard      - 4 hostile fighters
-        Nightmare - randomized multi-group package
-        Cleanup   - removes every group created by this script
-
-INSTALLATION:
-    Mission Editor -> Triggers -> MISSION START -> DO SCRIPT FILE
-=======================================================================
 --]]
 
 local ATG = {}
