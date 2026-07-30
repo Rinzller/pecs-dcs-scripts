@@ -1,9 +1,9 @@
 --[[
- TITLE: VF-143 PUKIN DOGS AIR THREAT GENERATOR
+TITLE: VF-143 PUKIN DOGS AIR THREAT GENERATOR
 
-Version: 1.0.0
+Version:      1.0.0
 Last Updated: July 29, 2026
-Author: Rinzller
+Author:       Rinzller
 
 DESCRIPTION:
     A plug-and-play DCS World training script that dynamically generates
