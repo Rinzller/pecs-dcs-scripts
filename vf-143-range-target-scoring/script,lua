@@ -1,0 +1,28 @@
+## VF-143 Pukin Dogs Range Target Scoring Script
+
+A plug-and-play bombing range scoring script for DCS World that reports how close each bomb impacts to configured range targets.
+
+### Features
+
+* Supports multiple range targets
+* Reports bomb impact distance from the target
+* Displays the assigned range name
+* Configurable scoring distance
+* No MIST or MOOSE required
+
+## Installation
+
+1. Open your mission in the DCS Mission Editor.
+2. Place a static object or unit at the center of each range target.
+3. Set each target’s Mission Editor object name to match the names configured in the script.
+4. Open **Triggers**.
+5. Create a new trigger:
+
+   * **Type:** `MISSION START`
+   * **Action:** `DO SCRIPT FILE`
+6. Select `VF-143_Pukin_Dogs_Range_Target_Scoring.lua`.
+7. Save the mission.
+
+When the mission starts, the script will display:
+
+`VF-143 Pukin Dogs Range Target Scoring is Active`
